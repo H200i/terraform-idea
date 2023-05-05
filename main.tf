@@ -1,8 +1,8 @@
 
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIARL3KQGVIBMC4RVHH"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 module "ALB-module" {
